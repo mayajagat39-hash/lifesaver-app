@@ -1,0 +1,7 @@
+{
+  "name": "Remix: Life Saver – Emergency Blood Donor Network",
+  "description": "A community-driven platform to quickly find nearby blood donors during emergencies and facilitate life-saving donations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
